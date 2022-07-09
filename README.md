@@ -22,7 +22,11 @@
 
 [01-Android开发中包的定义](./android/doc/01.md)
 
+[02-Android 6.0以上动态申请文件读写权限](./android/doc/02.md)
+
 ### 2.6. 计算机操作系统与网络 [(computer)](./computer)
+
+[01-如何解决双系统中Linux访问不了windows的NTFS分区的问题](./computer/doc/01.md)
 
 ### 2.7. 关系型数据库 [(database)](./database)
 
