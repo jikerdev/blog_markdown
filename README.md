@@ -8,7 +8,13 @@
 
 ### 2.1. 随笔日记 [(reading)](./reading)
 
-[01-2018年计划](./doc/01.md)
+[01-2018年计划](./reading/doc/01.md)
+
+[02-如何自学编程？](./reading/doc/02.md)
+
+[03-实习面试要注意什么？](./reading/doc/03.md)
+
+[04-在大学里，最基本的要做什么？](./reading/doc/04.md)
 
 ### 2.2. JavaScript [(js)](./js)
 
@@ -16,11 +22,17 @@
 
 ### 2.4. 开发工具 [(tools)](./tools)
 
-[01-Linux Mint安装老版本所有的壁纸](./tools/docs/01.md)
+[01-Linux Mint安装老版本所有的壁纸](./tools/doc/01.md)
 
-[02-Linux下如何解决Qt Creator不能输入中文的问题](./tools/docs/02.md)
+[02-Linux下如何解决Qt Creator不能输入中文的问题](./tools/doc/02.md)
 
-[03-如何上传docker镜像到docker hub](./tools/docs/03.md)
+[03-如何上传docker镜像到docker hub](./tools/doc/03.md)
+
+[04-国内常用的开源软件镜像网站](./tools/doc/04.md)
+
+[05-如何使用Apache做反向代理](./tools/doc/05.md)
+
+[06-Linux下解决Sublime Text 3无法输入中文的方法](./tools/doc/06.md)
 
 ### 2.5. Android [(android)](./android)
 
@@ -28,9 +40,13 @@
 
 [02-Android 6.0以上动态申请文件读写权限](./android/doc/02.md)
 
+[03-使用Google官方的fastboot工具刷入第三方recovery](./android/doc/03.md)
+
 ### 2.6. 计算机操作系统与网络 [(computer)](./computer)
 
 [01-如何解决双系统中Linux访问不了windows的NTFS分区的问题](./computer/doc/01.md)
+
+[02-解决RTL8723BE网卡Linux上WIFI信号信号差的问题](./computer/doc/02.md)
 
 ### 2.7. 关系型数据库 [(database)](./database)
 
@@ -41,6 +57,12 @@
 [03-MySQL中的字符集和校对集是什么?](./database/doc/03.md)
 
 [04-MySQL怎样给普通用户分配权限?](./database/doc/04.md)
+
+[05-在Linux上二进制文件安装MySQL 8.0.11的详细过程](./database/doc/05.md)
+
+[06-使用原生JDBC开发项目会有什么问题](./database/doc/06.md)
+
+[07-MySQL 5.7更改密码的方法](./database/doc/07.md)
 
 ### 2.8. NoSQL [(nosql)](./nosql)
 
