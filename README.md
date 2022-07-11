@@ -18,6 +18,10 @@
 
 [01-Linux Mint安装老版本所有的壁纸](./tools/docs/01.md)
 
+[02-Linux下如何解决Qt Creator不能输入中文的问题](./tools/docs/02.md)
+
+[03-如何上传docker镜像到docker hub](./tools/docs/03.md)
+
 ### 2.5. Android [(android)](./android)
 
 [01-Android开发中包的定义](./android/doc/01.md)
@@ -35,6 +39,8 @@
 [02-SQL Srver中常用的约束语句](./database/doc/02.md)
 
 [03-MySQL中的字符集和校对集是什么?](./database/doc/03.md)
+
+[04-MySQL怎样给普通用户分配权限?](./database/doc/04.md)
 
 ### 2.8. NoSQL [(nosql)](./nosql)
 
