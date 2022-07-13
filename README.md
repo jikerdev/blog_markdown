@@ -20,7 +20,13 @@
 
 [06-有人抱怨命运，却有人连喘气的机会都没有](./reading/doc/06.md)
 
-### 2.2. JavaScript [(js)](./js)
+[07-如何自学编程？-怎样选择入门语言？](./reading/doc/07.md)
+
+[08-如何自学编程？-初学者该做的事](./reading/doc/08.md)
+
+### 2.2. 前端技术 [(frontend)](./frontend)
+
+[01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
 
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
@@ -68,6 +74,8 @@
 
 [07-MySQL 5.7更改密码的方法](./database/doc/07.md)
 
+[08-如何在Windows上安装和使用MySQL8.0数据库](./database/doc/08.md)
+
 ### 2.8. NoSQL [(nosql)](./nosql)
 
 [01-Linux怎样安装MongoDB](./nosql/doc/01.md)
@@ -86,6 +94,8 @@
 
 [02-Linux下php安装curl扩展](./php/doc/02.md)
 
+[03-怎样让PHP执行错误代码时显示错误信息？](./php/doc/03.md)
+
 ### 2.13. Java [(java)](./java)
 
 [01-Servlet的生命周期](./java/doc/01.md)
@@ -94,8 +104,18 @@
 
 [03-Java中String、StringBufer、StringBuilder的区别以及使用方法](./java/doc/03.md)
 
+[04-怎样把java的war程序包放在tomcat服务器上运行](./java/doc/04.md)
+
 ### 2.14. Go [(go)](./go)
 
 ### 2.15. Rust [(rust)](./rust)
 
 ### 2.16. C/C++ [(cpp)](./cpp)
+
+### 2.17. 服务端综合技术 [(server)](./server)
+
+[01-LAMP环境搭建之从源码安装Apache](./server/doc/01.md)
+
+[02-LAMP环境搭建之从源码安装PHP](./server/doc/02.md)
+
+### 2.18. 开发规范 [(regular)](./regular)
