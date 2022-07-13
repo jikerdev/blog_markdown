@@ -16,6 +16,10 @@
 
 [04-在大学里，最基本的要做什么？](./reading/doc/04.md)
 
+[05-怎样与人相处？](./reading/doc/05.md)
+
+[06-有人抱怨命运，却有人连喘气的机会都没有](./reading/doc/06.md)
+
 ### 2.2. JavaScript [(js)](./js)
 
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
