@@ -28,6 +28,8 @@
 
 [10-我是如何走上PHP程序员这条路的？](./reading/doc/10.md)
 
+[11-我路过全世界，只为遇见你](./reading/doc/11.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -54,6 +56,10 @@
 
 [07-YAML的基本语法](./tools/doc/07.md)
 
+[08-正则表达式的常用语法规则](./tools/doc/08.md)
+
+[09-怎样使用Docker镜像搭建SVN服务](./tools/doc/09.md)
+
 ### 2.5. Android [(android)](./android)
 
 [01-Android开发中包的定义](./android/doc/01.md)
@@ -67,6 +73,8 @@
 [01-如何解决双系统中Linux访问不了windows的NTFS分区的问题](./computer/doc/01.md)
 
 [02-解决RTL8723BE网卡Linux上WIFI信号信号差的问题](./computer/doc/02.md)
+
+[03-怎样给Linux服务器添加交换空间](./computer/doc/03.md)
 
 ### 2.7. 关系型数据库 [(database)](./database)
 
@@ -85,6 +93,8 @@
 [07-MySQL 5.7更改密码的方法](./database/doc/07.md)
 
 [08-如何在Windows上安装和使用MySQL8.0数据库](./database/doc/08.md)
+
+[09-MySQL数据库基础的操作与增删改查方法](./database/doc/09.md)
 
 ### 2.8. NoSQL [(nosql)](./nosql)
 
