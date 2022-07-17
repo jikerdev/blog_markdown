@@ -24,11 +24,19 @@
 
 [08-如何自学编程？-初学者该做的事](./reading/doc/08.md)
 
+[09-毕业之后，你在哪里？](./reading/doc/09.md)
+
+[10-我是如何走上PHP程序员这条路的？](./reading/doc/10.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
 
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
+
+[01-算法学习基础-基本概念](./algorithm/doc/01.md)
+
+[02-算法学习基础-排序问题](./algorithm/doc/02.md)
 
 ### 2.4. 开发工具 [(tools)](./tools)
 
@@ -43,6 +51,8 @@
 [05-如何使用Apache做反向代理](./tools/doc/05.md)
 
 [06-Linux下解决Sublime Text 3无法输入中文的方法](./tools/doc/06.md)
+
+[07-YAML的基本语法](./tools/doc/07.md)
 
 ### 2.5. Android [(android)](./android)
 
@@ -117,5 +127,7 @@
 [01-LAMP环境搭建之从源码安装Apache](./server/doc/01.md)
 
 [02-LAMP环境搭建之从源码安装PHP](./server/doc/02.md)
+
+[03-LAMP环境搭建之从源码安装MySQL](./server/doc/03.md)
 
 ### 2.18. 开发规范 [(regular)](./regular)
