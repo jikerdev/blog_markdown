@@ -36,6 +36,8 @@
 
 [02-微信小程序wx.getUserInfo接口获取用户信息失败，新版SDK怎样获取用户信息？](./frontend/doc/02.md)
 
+[03-怎么使用七牛云JSSDK上传私密文件](./frontend/doc/03.md)
+
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
 [01-算法学习基础-基本概念](./algorithm/doc/01.md)
@@ -109,6 +111,8 @@
 ### 2.9. 消息队列 [(mq)](./mq)
 
 ### 2.10. 容器与虚拟化 [(container)](./container)
+
+[01-怎样使用Docker运行php项目]？(./container/doc/01.md)
 
 ### 2.11. 编程理论基础 [(basic)](./basic)
 
