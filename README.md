@@ -34,6 +34,8 @@
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
 
+[02-微信小程序wx.getUserInfo接口获取用户信息失败，新版SDK怎样获取用户信息？](./frontend/doc/02.md)
+
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
 [01-算法学习基础-基本概念](./algorithm/doc/01.md)
@@ -59,6 +61,8 @@
 [08-正则表达式的常用语法规则](./tools/doc/08.md)
 
 [09-怎样使用Docker镜像搭建SVN服务](./tools/doc/09.md)
+
+[10-怎样阻止Linux执行rm -rf /*命令](./tools/doc/10.md)
 
 ### 2.5. Android [(android)](./android)
 
