@@ -66,6 +66,8 @@
 
 [10-怎样阻止Linux执行rm -rf /*命令](./tools/doc/10.md)
 
+[11-SQLite的安装与基本操作方法](./tools/doc/11.md)
+
 ### 2.5. Android [(android)](./android)
 
 [01-Android开发中包的定义](./android/doc/01.md)
