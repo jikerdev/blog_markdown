@@ -44,6 +44,8 @@
 
 [04-怎样解决LayUI提示Uncaught TypeError: Cannot create property 'LAY_TABLE_INDEX' on string '20'错误](./frontend/doc/04.md)
 
+[05-js怎样判断图片链接是否有效？](./frontend/doc/05.md)
+
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
 [01-算法学习基础-基本概念](./algorithm/doc/01.md)
@@ -73,6 +75,8 @@
 [10-怎样阻止Linux执行rm -rf /*命令](./tools/doc/10.md)
 
 [11-SQLite的安装与基本操作方法](./tools/doc/11.md)
+
+[12-Let's Encrypt免费SSL通配证书的申请与续期方法](./tools/doc/12.md)
 
 ### 2.5. Android [(android)](./android)
 
@@ -126,6 +130,8 @@
 
 [02-怎样使用windows自带磁盘工具恢复启动盘](./skill/doc/02.md)
 
+[03-不使用激活工具，怎样使用代码激活Windows10？](./skill/doc/03.md)
+
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
 [01-怎样使用Docker运行php项目]？(./container/doc/01.md)
@@ -139,6 +145,8 @@
 [02-Linux下php安装curl扩展](./php/doc/02.md)
 
 [03-怎样让PHP执行错误代码时显示错误信息？](./php/doc/03.md)
+
+[04-怎样利用钩子实现git仓库的PHP代码自动部署？](./php/doc/04.md)
 
 ### 2.13. Java [(java)](./java)
 
