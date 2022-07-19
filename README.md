@@ -30,6 +30,10 @@
 
 [11-我路过全世界，只为遇见你](./reading/doc/11.md)
 
+[12-我花光了所有的运气，在最好的年纪遇见你](./reading/doc/12.md)
+
+[13-如果从零开始，我会选择更简单，更努力](./reading/doc/13.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -37,6 +41,8 @@
 [02-微信小程序wx.getUserInfo接口获取用户信息失败，新版SDK怎样获取用户信息？](./frontend/doc/02.md)
 
 [03-怎么使用七牛云JSSDK上传私密文件](./frontend/doc/03.md)
+
+[04-怎样解决LayUI提示Uncaught TypeError: Cannot create property 'LAY_TABLE_INDEX' on string '20'错误](./frontend/doc/04.md)
 
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
@@ -76,6 +82,8 @@
 
 [03-使用Google官方的fastboot工具刷入第三方recovery](./android/doc/03.md)
 
+[04-怎样解决在Linux上AndroidStudio连接不上Android设备的问题](./android/doc/04.md)
+
 ### 2.6. 计算机操作系统与网络 [(computer)](./computer)
 
 [01-如何解决双系统中Linux访问不了windows的NTFS分区的问题](./computer/doc/01.md)
@@ -83,6 +91,8 @@
 [02-解决RTL8723BE网卡Linux上WIFI信号信号差的问题](./computer/doc/02.md)
 
 [03-怎样给Linux服务器添加交换空间](./computer/doc/03.md)
+
+[04-怎样安装ArchLinux以及Deepin桌面环境](./computer/doc/04.md)
 
 ### 2.7. 关系型数据库 [(database)](./database)
 
@@ -110,7 +120,11 @@
 
 [02-Linux下安装Redis](./nosql/doc/02.md)
 
-### 2.9. 消息队列 [(mq)](./mq)
+### 2.9. 小技巧 [(skill)](./skill)
+
+[01-vue项目部署到Apache后子界面刷新出现404的解决办法](./skill/doc/01.md)
+
+[02-怎样使用windows自带磁盘工具恢复启动盘](./skill/doc/02.md)
 
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
@@ -150,4 +164,8 @@
 
 [03-LAMP环境搭建之从源码安装MySQL](./server/doc/03.md)
 
+[04-怎样在AlpineLinux容器中搭建Python3+Django环境](./server/doc/04.md)
+
 ### 2.18. 开发规范 [(regular)](./regular)
+
+[01-RESTful架构API风格与相关规范](./regular/doc/01.md)
