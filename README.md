@@ -46,6 +46,8 @@
 
 [05-js怎样判断图片链接是否有效？](./frontend/doc/05.md)
 
+[06-CSS的基本概念与学习工具](./frontend/doc/06.md)
+
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
 [01-算法学习基础-基本概念](./algorithm/doc/01.md)
@@ -132,6 +134,12 @@
 
 [03-不使用激活工具，怎样使用代码激活Windows10？](./skill/doc/03.md)
 
+[04-PHP7.4编译配置命令](./skill/doc/04.md)
+
+[05-装windows+Linux双系统后，Windows时间不正确的解决办法](./skill/doc/05.md)
+
+[06-Error: ENOSPC: System limit for number of file watchers reached，Vue项目运行出现该报错的解决办法](./skill/doc/06.md)
+
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
 [01-怎样使用Docker运行php项目]？(./container/doc/01.md)
@@ -147,6 +155,14 @@
 [03-怎样让PHP执行错误代码时显示错误信息？](./php/doc/03.md)
 
 [04-怎样利用钩子实现git仓库的PHP代码自动部署？](./php/doc/04.md)
+
+[05-PHP微信支付开发实战-下单与支付](./php/doc/05.md)
+
+[06-PHP微信支付开发实战-退款](./php/doc/06.md)
+
+[07-PHP微信支付开发实战-订单查询](./php/doc/07.md)
+
+[08-PHP TS 和 PHP NTS有什么区别](./php/doc/08.md)
 
 ### 2.13. Java [(java)](./java)
 
