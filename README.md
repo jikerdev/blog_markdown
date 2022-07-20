@@ -34,6 +34,8 @@
 
 [13-如果从零开始，我会选择更简单，更努力](./reading/doc/13.md)
 
+[14-2020年终总结-20年实鼠不易，希望21年牛转乾坤](./reading/doc/14.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -142,9 +144,21 @@
 
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
-[01-怎样使用Docker运行php项目]？(./container/doc/01.md)
+[01-怎样使用Docker运行php项目？](./container/doc/01.md)
 
-### 2.11. 编程理论基础 [(basic)](./basic)
+[02-二进制安装包k8s集群部署（1）-k8s基本概念与集群规划](./container/doc/02.md)
+
+[03-二进制安装包k8s集群部署（2）-安装虚拟环境](./container/doc/03.md)
+
+[04-二进制安装包k8s集群部署（3）-初始化服务器](./container/doc/04.md)
+
+[05-二进制安装包k8s集群部署（3）-为etcd颁发SSL证书](./container/doc/05.md)
+
+[06-二进制安装包k8s集群部署（3）-安装etcd集群](./container/doc/06.md)
+
+### 2.11. 编程理论基础 [(theory)](./theory)
+
+[01-软件开发中常用的数据加密方式](./theory/doc/01.md)
 
 ### 2.12. PHP [(php)](./php)
 
@@ -189,6 +203,10 @@
 [03-LAMP环境搭建之从源码安装MySQL](./server/doc/03.md)
 
 [04-怎样在AlpineLinux容器中搭建Python3+Django环境](./server/doc/04.md)
+
+[05-Apache服务器VirtualHost常用配置](./server/doc/05.md)
+
+[06-Nginx服务器server节点常用配置](./server/doc/06.md)
 
 ### 2.18. 开发规范 [(regular)](./regular)
 
