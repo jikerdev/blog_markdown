@@ -82,6 +82,10 @@
 
 [12-Let's Encrypt免费SSL通配证书的申请与续期方法](./tools/doc/12.md)
 
+[13-本地查看Swagger导出的Json文件的方法](./tools/doc/13.md)
+
+[14-怎样使用Multipass快速创建和管理Ubuntu虚拟机？](./tools/doc/14.md)
+
 ### 2.5. Android [(android)](./android)
 
 [01-Android开发中包的定义](./android/doc/01.md)
@@ -142,6 +146,10 @@
 
 [06-Error: ENOSPC: System limit for number of file watchers reached，Vue项目运行出现该报错的解决办法](./skill/doc/06.md)
 
+[07-在Linux桌面下怎样实现Android投屏](./skill/doc/07.md)
+
+[08-怎样在Linux中修改网卡MAC地址](./skill/doc/08.md)
+
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
 [01-怎样使用Docker运行php项目？](./container/doc/01.md)
@@ -159,6 +167,8 @@
 ### 2.11. 编程理论基础 [(theory)](./theory)
 
 [01-软件开发中常用的数据加密方式](./theory/doc/01.md)
+
+[02-Linux学习路径](./theory/doc/02.md)
 
 ### 2.12. PHP [(php)](./php)
 
