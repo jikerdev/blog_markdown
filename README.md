@@ -56,6 +56,10 @@
 
 [02-算法学习基础-排序问题](./algorithm/doc/02.md)
 
+[03-从线性连续存储开始，重新认识《数据结构》](./algorithm/doc/03.md)
+
+[04-数据结构中的线性离散存储-链表](./algorithm/doc/04.md)
+
 ### 2.4. 开发工具 [(tools)](./tools)
 
 [01-Linux Mint安装老版本所有的壁纸](./tools/doc/01.md)
@@ -164,6 +168,8 @@
 
 [06-二进制安装包k8s集群部署（3）-安装etcd集群](./container/doc/06.md)
 
+[07-学习kubernetes，从快速搭建k8s集群开始](./container/doc/07.md)
+
 ### 2.11. 编程理论基础 [(theory)](./theory)
 
 [01-软件开发中常用的数据加密方式](./theory/doc/01.md)
@@ -199,6 +205,12 @@
 [04-怎样把java的war程序包放在tomcat服务器上运行](./java/doc/04.md)
 
 ### 2.14. Go [(go)](./go)
+
+[01-怎样搭建golang的开发环境](./go/doc/01.md)
+
+[02-golang语言中包的使用](./go/doc/02.md)
+
+[03-golang的数据类型](./go/doc/03.md)
 
 ### 2.15. Rust [(rust)](./rust)
 
