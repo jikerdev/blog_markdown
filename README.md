@@ -102,6 +102,12 @@
 
 [47-明天我开始九九六了](./reading/doc/47.md)
 
+[48-每天坚持做一件充满意义的事](./reading/doc/48.md)
+
+[49-接近2022年，这些天忙碌又充实](./reading/doc/49.md)
+
+[50-广漂打工的年底生活日记](./reading/doc/50.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -311,3 +317,17 @@
 ### 2.18. 开发规范 [(regular)](./regular)
 
 [01-RESTful架构API风格与相关规范](./regular/doc/01.md)
+
+### 2.19. redis专题 [(redis)](./redis)
+
+[01-redis入门知识第1篇-redis简介](./redis/doc/01.md)
+
+[02-redis入门知识第2篇-redis的安装与测试](./redis/doc/02.md)
+
+[03-redis入门知识第3篇-redis的基本操作与数据类型](./redis/doc/03.md)
+
+[04-redis入门知识第4篇-redis中的string数据类型与基本的数据存取操作](./redis/doc/04.md)
+
+[05-redis入门知识第5篇-hash数据类型与基本操作](./redis/doc/05.md)
+
+[06-redis入门知识第6篇-list数据类型与基本操作](./redis/doc/06.md)
