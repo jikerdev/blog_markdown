@@ -80,6 +80,28 @@
 
 [36-周末日记](./reading/doc/36.md)
 
+[37-周记](./reading/doc/37.md)
+
+[38-明天周六我不睡懒觉了](./reading/doc/38.md)
+
+[39-这个周六我赚了三十块钱](./reading/doc/39.md)
+
+[40-分享这段时间我在做的事情](./reading/doc/40.md)
+
+[41-这两天没什么多的感想](./reading/doc/41.md)
+
+[42-广州这坐城市怎么样，我为什么要来这里？](./reading/doc/42.md)
+
+[43-在为人处事上，我一直有一些坏毛病](./reading/doc/43.md)
+
+[44-2022年的大致计划](./reading/doc/44.md)
+
+[45-日记](./reading/doc/45.md)
+
+[46-程序员的工资怎么样？](./reading/doc/46.md)
+
+[47-明天我开始九九六了](./reading/doc/47.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
