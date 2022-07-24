@@ -108,6 +108,16 @@
 
 [50-广漂打工的年底生活日记](./reading/doc/50.md)
 
+[51-连续加班，我的工作效率变低了](./reading/doc/51.md)
+
+[52-冬至这一天我做了什么，分享一下自己一天的工作](./reading/doc/52.md)
+
+[53-年终述职已完成，继续努力工作](./reading/doc/53.md)
+
+[54-完成了年终述职，我开始计划着明年的目标](./reading/doc/54.md)
+
+[55-感谢努力的自己](./reading/doc/55.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -121,6 +131,8 @@
 [05-js怎样判断图片链接是否有效？](./frontend/doc/05.md)
 
 [06-CSS的基本概念与学习工具](./frontend/doc/06.md)
+
+[07-jquery怎样获取所有选中的checkbox的值](./frontend/doc/07.md)
 
 ### 2.3. 数据结构与算法 [(algorithm)](./algorithm)
 
@@ -168,6 +180,10 @@
 
 [17-通俗易懂地学习git中最常用的命令](./tools/doc/17.md)
 
+[18-怎样使用git进行协同开发？](./tools/doc/18.md)
+
+[19-git版本库的代码回退技巧](./tools/doc/19.md)
+
 ### 2.5. Android [(android)](./android)
 
 [01-Android开发中包的定义](./android/doc/01.md)
@@ -178,6 +194,8 @@
 
 [04-怎样解决在Linux上AndroidStudio连接不上Android设备的问题](./android/doc/04.md)
 
+[05-Android怎样打印指定包的日志](./android/doc/05.md)
+
 ### 2.6. 计算机操作系统与网络 [(computer)](./computer)
 
 [01-如何解决双系统中Linux访问不了windows的NTFS分区的问题](./computer/doc/01.md)
@@ -187,6 +205,8 @@
 [03-怎样给Linux服务器添加交换空间](./computer/doc/03.md)
 
 [04-怎样安装ArchLinux以及Deepin桌面环境](./computer/doc/04.md)
+
+[05-DNS首选与备用作用机制探究](./computer/doc/05.md)
 
 ### 2.7. 关系型数据库 [(database)](./database)
 
@@ -234,6 +254,14 @@
 
 [09-怎样让docker容器开机自启？](./skill/doc/09.md)
 
+[10-ES通配符查询](./skill/doc/10.md)
+
+[11-oh-my-zsh在git目录变得很卡的解决办法](./skill/doc/11.md)
+
+[12-怎样给网卡的IP地址设置别名](./skill/doc/12.md)
+
+[13-怎样检测SSL证书和密钥是否匹配](./skill/doc/13.md)
+
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
 [01-怎样使用Docker运行php项目？](./container/doc/01.md)
@@ -275,6 +303,12 @@
 [07-PHP微信支付开发实战-订单查询](./php/doc/07.md)
 
 [08-PHP TS 和 PHP NTS有什么区别](./php/doc/08.md)
+
+[09-PHP8.1编译配置命令](./php/doc/09.md)
+
+[10-macOS怎样编译安装PHP7.3？](./php/doc/10.md)
+
+[11-macOS怎样编译安装php8.1？](./php/doc/11.md)
 
 ### 2.13. Java [(java)](./java)
 
@@ -331,3 +365,9 @@
 [05-redis入门知识第5篇-hash数据类型与基本操作](./redis/doc/05.md)
 
 [06-redis入门知识第6篇-list数据类型与基本操作](./redis/doc/06.md)
+
+[07-redis入门知识第7篇-set数据类型的基本操作](./redis/doc/07.md)
+
+[08-redis入门知识第8篇-sorted_set数据类型的基本操作](./redis/doc/08.md)
+
+[09-redis入门知识第9篇-key的通用操作](./redis/doc/09.md)
