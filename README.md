@@ -36,6 +36,14 @@
 
 [14-2020年终总结-20年实鼠不易，希望21年牛转乾坤](./reading/doc/14.md)
 
+[15-程序员日记-1](./reading/doc/15.md)
+
+[16-从今天开始不断地总结和提高自己](./reading/doc/16.md)
+
+[17-程序员是怎么样的一群人？](./reading/doc/17.md)
+
+[18-工作与心情日记](./reading/doc/18.md)
+
 ### 2.2. 前端技术 [(frontend)](./frontend)
 
 [01-怎样在Linux上安装Node.js](./frontend/doc/01.md)
@@ -89,6 +97,12 @@
 [13-本地查看Swagger导出的Json文件的方法](./tools/doc/13.md)
 
 [14-怎样使用Multipass快速创建和管理Ubuntu虚拟机？](./tools/doc/14.md)
+
+[15-怎样使用Vagrant在命令行终端命上管理Linux虚拟机](./tools/doc/15.md)
+
+[16-使用git托管代码的基本操作方法](./tools/doc/16.md)
+
+[17-通俗易懂地学习git中最常用的命令](./tools/doc/17.md)
 
 ### 2.5. Android [(android)](./android)
 
@@ -154,6 +168,8 @@
 
 [08-怎样在Linux中修改网卡MAC地址](./skill/doc/08.md)
 
+[09-怎样让docker容器开机自启？](./skill/doc/09.md)
+
 ### 2.10. 容器与虚拟化 [(container)](./container)
 
 [01-怎样使用Docker运行php项目？](./container/doc/01.md)
@@ -215,6 +231,8 @@
 ### 2.15. Rust [(rust)](./rust)
 
 ### 2.16. C/C++ [(cpp)](./cpp)
+
+[01-c++编译工具的基本使用方法](./cpp/doc/01.md)
 
 ### 2.17. 服务端综合技术 [(server)](./server)
 
