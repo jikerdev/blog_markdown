@@ -4,6 +4,8 @@
 
 [02-如何自学编程？](./doc/02.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/89857443>
+
 [03-实习面试要注意什么？](./doc/03.md)
 
 [04-在大学里，最基本的要做什么？](./doc/04.md)
@@ -14,11 +16,17 @@
 
 [07-如何自学编程？-怎样选择入门语言？](./doc/07.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/83247429>
+
 [08-如何自学编程？-初学者该做的事](./doc/08.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/83747669>
 
 [09-毕业之后，你在哪里？](./doc/09.md)
 
 [10-我是如何走上PHP程序员这条路的？](./doc/10.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/102333367>
 
 [11-我路过全世界，只为遇见你](./doc/11.md)
 
@@ -26,21 +34,35 @@
 
 [13-如果从零开始，我会选择更简单，更努力](./doc/13.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/104914589>
+
 [14-2020年终总结-20年实鼠不易，希望21年牛转乾坤](./doc/14.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/111938731>
 
 [15-程序员日记-1](./doc/15.md)
 
 [16-从今天开始不断地总结和提高自己](./doc/16.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/120944367>
+
 [17-程序员是怎么样的一群人？](./doc/17.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/120985853>
 
 [18-工作与心情日记](./doc/18.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/120985907>
+
 [19-后端开发工程师的工作流程是怎样的](./doc/19.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/121044471>
 
 [20-为什么应该要坚持每天写作](./doc/20.md)
 
 [21-手机占据了我大部分可支配的时间](./doc/21.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/121091562>
 
 [22-为什么说大城市是专业技术就业的最好选择](./doc/22.md)
 
@@ -96,9 +118,15 @@
 
 [48-每天坚持做一件充满意义的事](./doc/48.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/121882623>
+
 [49-接近2022年，这些天忙碌又充实](./doc/49.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/121965306>
+
 [50-广漂打工的年底生活日记](./doc/50.md)
+
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/122053032>
 
 [51-连续加班，我的工作效率变低了](./doc/51.md)
 
