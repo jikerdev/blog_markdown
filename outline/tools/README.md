@@ -16,6 +16,8 @@
 
 [08-正则表达式的常用语法规则](./doc/08.md)
 
+- CSDN: <https://blog.csdn.net/qq_34330286/article/details/102717085>
+
 [09-怎样使用Docker镜像搭建SVN服务](./doc/09.md)
 
 [10-怎样阻止Linux执行rm -rf /*命令](./doc/10.md)
