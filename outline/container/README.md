@@ -4,4 +4,4 @@
 
 [02-怎样安装etcd集群](./doc/02.md)
 
-[03-学习kubernetes，从快速搭建k8s集群开始](./doc/03.md)
+[03-在Ubuntu上快速搭建k8s集群](./doc/03.md)
