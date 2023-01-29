@@ -20,9 +20,10 @@
 
 [07-jquery怎样获取所有选中的checkbox的值](./doc/07.md)
 
-[08-怎样在Linux上开发vue项目]
+[08-怎样在Linux上开发vue项目](./doc/08.md)
 
 - CSDN: <https://blog.csdn.net/qq_34330286/article/details/106463280>
+- jkdev: <https://blog.jkdev.cn/index.php/archives/277/>  
 
 [09-我的react学习计划]
 
