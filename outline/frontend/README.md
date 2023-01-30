@@ -32,3 +32,5 @@
 [10-使用HTML5画布和jQuery使小球颜色不断变化]
 
 CSDN: <https://blog.csdn.net/qq_34330286/article/details/124218201>
+
+[11-Error: ENOSPC: System limit for number of file watchers reached，Vue项目运行出现该报错的解决办法](./doc/06.md)

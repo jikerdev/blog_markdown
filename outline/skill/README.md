@@ -1,4 +1,4 @@
-# 小技巧
+# 技巧
 
 [01-vue项目部署到Apache后子界面刷新出现404的解决办法](./doc/01.md)
 
@@ -6,13 +6,9 @@
 
 [03-不使用激活工具，怎样使用代码激活Windows10？](./doc/03.md)
 
-[04-PHP7.4编译配置命令](./doc/04.md)
-
 [05-装windows+Linux双系统后，Windows时间不正确的解决办法](./doc/05.md)
 
-[06-Error: ENOSPC: System limit for number of file watchers reached，Vue项目运行出现该报错的解决办法](./doc/06.md)
-
-[07-在Linux桌面下怎样实现Android投屏](./doc/07.md)
+[07-在Linux桌面下使用adb进行Android投屏](./doc/07.md)
 
 [08-怎样在Linux中修改网卡MAC地址](./doc/08.md)
 

@@ -20,7 +20,7 @@
 
 [09-怎样使用Docker镜像搭建SVN服务](./doc/09.md)
 
-[10-怎样阻止Linux执行rm -rf /*命令](./doc/10.md)
+[10-怎样阻止Linux执行rm -rf \/\*命令](./doc/10.md)
 
 [11-SQLite的安装与基本操作方法](./doc/11.md)
 
