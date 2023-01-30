@@ -4,11 +4,11 @@
 
 - CSDN: <https://blog.csdn.net/qq_34330286/article/details/89857443>
 
-[02-如何自学编程？-怎样选择入门语言？](./doc/02.md)
+[02-自学编程时怎样选择入门语言？](./doc/02.md)
 
 - CSDN: <https://blog.csdn.net/qq_34330286/article/details/83247429>
 
-[03-如何自学编程？-初学者该做的事](./doc/08.md)
+[03-自学编程初学者该做的事](./doc/08.md)
 
 - CSDN: <https://blog.csdn.net/qq_34330286/article/details/83747669>
 
